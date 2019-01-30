@@ -1,0 +1,5 @@
+app_sp.json
+init_sp.sh
+.terraform
+terraform.tfstate
+.idea
