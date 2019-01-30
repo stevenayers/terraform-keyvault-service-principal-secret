@@ -1,4 +1,4 @@
-# Azure Key Vault PoC
+# Service Principal Credentials in Azure Key Vault - Terraform
 
 This Terraform attempts to pull out service principal credentials from Azure Key Vault and
 output the values.
